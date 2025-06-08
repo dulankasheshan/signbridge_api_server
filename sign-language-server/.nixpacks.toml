@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["libGL"]
+
+[start]
+cmd = "python sign_bridge_server.py"
