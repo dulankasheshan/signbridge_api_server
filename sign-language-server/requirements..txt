@@ -1,0 +1,5 @@
+websockets==11.0.3
+opencv-python-headless==4.10.0.82
+numpy
+mediapipe
+tensorflow
